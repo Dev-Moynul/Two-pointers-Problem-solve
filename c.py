@@ -17,4 +17,4 @@ while l < n and r < m :
         cnt += 1
         l += 1
         r += 1
-print(cnt) 
+print(cnt)
